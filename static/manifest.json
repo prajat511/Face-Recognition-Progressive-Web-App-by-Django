@@ -1,0 +1,20 @@
+{
+    "name": "Face recognition",
+    "short_name": "facerecog",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#FFF",
+    "theme_color": "#493174",
+    "description": "Test app for Face recognition",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/static/icons/icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+   ]
+}
